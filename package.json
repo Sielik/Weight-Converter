@@ -1,0 +1,23 @@
+{
+    "name": "Weight-Converter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sielik/Weight-Converter.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Sielik/Weight-Converter/issues"
+    },
+    "homepage": "https://github.com/Sielik/Weight-Converter",
+    "dependencies": {
+        "gh-pages": "^3.0.0"
+    }
+}
