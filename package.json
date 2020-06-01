@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "main.js",
     "scripts": {
-        "deploy": "gh-pages -d Weight-Converter"
+        "deploy": "gh-pages -d index.html"
     },
     "repository": {
         "type": "git",
